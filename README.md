@@ -1,0 +1,1 @@
+The jupyter-notebook in this repository documents my keyboard shortcuts across applications and plots a keyboard map to make it easier for me to choose convenient new keyboard shortcuts without causing collisions.
